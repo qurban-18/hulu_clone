@@ -31,6 +31,7 @@ const Header = () => {
         src="https://i.postimg.cc/qMDS9t8g/851-8516462-hulu-logo-on-black.png"
         width={100}
         height={50}
+        alt=""
       />
     </header>
   );
